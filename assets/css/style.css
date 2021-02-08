@@ -1,0 +1,13 @@
+.bg-logo {
+  background-image: url("logo2.jpeg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.img-tengah {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+}
